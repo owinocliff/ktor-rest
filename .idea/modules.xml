@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ipay_rest.iml" filepath="$PROJECT_DIR$/.idea/modules/ipay_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ipay_rest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ipay_rest_main.iml" group="ipay_rest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ipay_rest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ipay_rest_test.iml" group="ipay_rest" />
+    </modules>
+  </component>
+</project>
